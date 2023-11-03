@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('pic2.jpg');
+    background-size: cover; /* This will scale the image to fit within the element */
+    background-repeat: no-repeat;
+}
+
+.timer {
+    margin-top: 100px;
+}
+
+#countdown {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.emoji {
+    font-size: 48px; /* Increase the font size for the heart emoji */
+}
